@@ -173,7 +173,6 @@ export default class Battle extends Component {
             }
           </div>
         </div>
-        <PlayerInput label='Label' onSubmit={value => console.log('value:', value)} />
       </Fragment>
     )
   }
