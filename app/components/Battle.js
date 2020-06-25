@@ -1,4 +1,4 @@
-import React, {Component, Fragment} from 'react'
+import React, { Component, Fragment } from 'react'
 import { FaUserFriends, FaFighterJet, FaTrophy, FaTimesCircle } from 'react-icons/fa'
 import PropTypes from 'prop-types'
 import Results from './Results'
